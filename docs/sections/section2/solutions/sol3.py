@@ -1,5 +1,0 @@
-plt.plot(bikeshare['temp'], bikeshare['atemp'],'.-b', alpha =0.5)
-plt.xlabel('Temp')
-plt.ylabel('A - Temp')
-plt.title('A-Temp vs Temp')
-plt.show()
